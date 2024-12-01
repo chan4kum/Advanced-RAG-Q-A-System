@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Built with ❤️ by [Chandan Kumar]
 - LinkedIn: [https://www.linkedin.com/in/chan4kum/]
-- GitHub: [[Your GitHub Profile](https://github.com/chan4kum)]
+- GitHub: [https://github.com/chan4kum]
 
 ## 🙏 Acknowledgments
 
